@@ -1,0 +1,5 @@
+C:\Users\LAPDIER1\Desktop\RestServiceExa2\RestFulExamen\RESTClient\bin\Debug\RESTClient.dll
+C:\Users\LAPDIER1\Desktop\RestServiceExa2\RestFulExamen\RESTClient\bin\Debug\RESTClient.pdb
+C:\Users\LAPDIER1\Desktop\RestServiceExa2\RestFulExamen\RESTClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LAPDIER1\Desktop\RestServiceExa2\RestFulExamen\RESTClient\obj\Debug\RESTClient.dll
+C:\Users\LAPDIER1\Desktop\RestServiceExa2\RestFulExamen\RESTClient\obj\Debug\RESTClient.pdb

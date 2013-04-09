@@ -1,0 +1,5 @@
+C:\Users\LAPDIER1\Desktop\RestServiceExa2\RestFulExamen\RestFulExamen\bin\RestFulExamen.dll
+C:\Users\LAPDIER1\Desktop\RestServiceExa2\RestFulExamen\RestFulExamen\bin\RestFulExamen.pdb
+C:\Users\LAPDIER1\Desktop\RestServiceExa2\RestFulExamen\RestFulExamen\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LAPDIER1\Desktop\RestServiceExa2\RestFulExamen\RestFulExamen\obj\Debug\RestFulExamen.dll
+C:\Users\LAPDIER1\Desktop\RestServiceExa2\RestFulExamen\RestFulExamen\obj\Debug\RestFulExamen.pdb
